@@ -41,4 +41,4 @@ def selection_sort(list):
 
 print(selection_sort(nba_leader_list))
 print(insertion_sort(nba_leader_list))
-print(nba_leader_list)### What is going on!!!! Shouldn't this be unsorted??
+print(nba_leader_list)### What is going on!!!! Shouldn't this be unsorted?? 
