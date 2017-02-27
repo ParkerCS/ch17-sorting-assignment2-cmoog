@@ -38,11 +38,8 @@ def selection_sort(list):
     return list
 
 
-other_list = nba_leader_list
-print(other_list)
 
 #print(selection_sort(nba_leader_list))
 print(insertion_sort(nba_leader_list))
 
-print(nba_leader_list)### What is going on!!!! Shouldn't this be unsorted??
-print(other_list) ### WHATTTTTT?????????
+
