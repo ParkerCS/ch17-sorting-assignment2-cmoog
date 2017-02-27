@@ -41,5 +41,3 @@ def selection_sort(list):
 
 #print(selection_sort(nba_leader_list))
 print(insertion_sort(nba_leader_list))
-
-
